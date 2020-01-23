@@ -12,15 +12,13 @@ The following instructions set up the software and online tools that you will be
 
 The first step is to create a [Github account](https://github.com/join?source=header) if you do not already have one. Then create an [Amazon Web Services](https://aws.amazon.com/) account.  
 
-**Note 1:** You will need a credit card to create an account but we will only use the free services as part of this workshop.  
-**Note 2**: If you already have an Amazon account associated with the email you ise (EG - for shopping) then this process will change the password to that account as well. 
+**Note 1:** You will need a credit card to create an AWS account but we will only use the free services as part of this workshop.  
+**Note 2**: If you already have an AWS account associated with the email you use (EG - for shopping) then this process will change the password to that account as well. 
 
 Next you will need to install the software we will be using (if you already have them installed make sure they are the latest versions):
    * R
    * RStudio
    * Git
-   
-**If you already have R & RStudio Installed please make sure that all packages and versions are updated**
    
 ## Installing R
 * Choose a [download mirror site](https://cran.r-project.org/mirrors.html) from the list that is close to you geographically  
